@@ -94,9 +94,3 @@ uvicorn main:app --reload
 
 ---
 
-<div align="center">
-
-### 🔒 CLASSIFIED // LEVEL 5 CLEARANCE
-*Constructed by Antigravity*
-
-</div>
